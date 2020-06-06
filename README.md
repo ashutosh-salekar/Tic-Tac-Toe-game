@@ -1,5 +1,5 @@
 # tic-tac-toe-game
-for Tic_Tac_toe.py :
+for TicTactoe.py :
     Make sure you have installed numpy library on your machine.
 
 for TicTacToe_GUI.py :
