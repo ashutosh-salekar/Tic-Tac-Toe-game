@@ -1,3 +1,6 @@
 # tic-tac-toe-game
-Just run the file on your machine.
-Make sure you have installed numpy library on your machine.
+for Tic_Tac_toe.py :
+    Make sure you have installed numpy library on your machine.
+
+for TicTacToe_GUI.py :
+    Make sure you have installed Tkinter library on your machine.
