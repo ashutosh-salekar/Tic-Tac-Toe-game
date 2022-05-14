@@ -5,5 +5,5 @@ The ouput will show in console of the editor.<br> Make sure to install numpy lib
 
     
 ## TicTacToe_GUI.py 
-    This game will open in seperate window as GUI.<br> Make sure to install Tkinter library. 
+This game will open in seperate window as GUI.<br> Make sure to install Tkinter library. 
 
