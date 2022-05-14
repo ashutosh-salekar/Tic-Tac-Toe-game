@@ -1,11 +1,9 @@
 # tic-tac-toe-game
 
-# TicTacToe_V2.py
-<t>The ouput will show in console of the editor.
+## TicTacToe_V2.py
+The ouput will show in console of the editor.<br> Make sure to install numpy library.
+
     
-for TicTacToe_GUI.py :
-    Make sure you have installed Tkinter library on your machine.
-    This will run in GUI
+## TicTacToe_GUI.py 
+    This game will open in seperate window as GUI.<br> Make sure to install Tkinter library. 
 
-
-# Interactive
