@@ -1,8 +1,7 @@
 # tic-tac-toe-game
 
-for TicTactoe_V2.py :
-    Make sure you have installed numpy library on your machine.
-    This will run in terminal only.
+# TicTacToe_V2.py
+<t>The ouput will show in console of the editor.
     
 for TicTacToe_GUI.py :
     Make sure you have installed Tkinter library on your machine.
